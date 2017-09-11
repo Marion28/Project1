@@ -1,0 +1,53 @@
+header h1 {
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+  background-color: #0695A1;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 82px;
+  color: white;
+}
+
+/*
+ main content area
+*/
+
+.wrapper {
+  width: 800px;
+  margin: auto;
+}
+
+main {
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+  text-align: justify;
+}
+figure{
+border-top: 4px solid #91C45D;}
+h2, h3 {
+  font-family: 'Julius Sans One', sans-serif;
+  text-align: left;
+  color: #0695A1;
+}
+
+/*
+footer
+*/
+
+#endfooter {
+  color:black;
+  background-color: #0695A1;
+  text-align: center;
+}
+
+/* links */
+
+a {
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+}
+
+a:link {color: #91C45D;}
+a:visited { color:#C47942;}
+a:hover {color: green;}
+a:active {color:pink;}
