@@ -47,7 +47,8 @@ a {
   font-size: 20px;
 }
 
+
 a:link {color: #91C45D;}
-a:visited { color:#C47942;}
+/*a:visited { color:#C47942;}*/
 a:hover {color: green;}
 a:active {color:pink;}
