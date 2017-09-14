@@ -1,8 +1,11 @@
-header h1 {
+
+.mainheader{height:200px;
+background-color: #0695A1;
+text-align: center;}
+
+h1 {
   margin: 0;
   padding: 50px;
-  text-align: center;
-  background-color: #0695A1;
   font-family: 'Julius Sans One', sans-serif;
   font-size: 82px;
   color: white;
@@ -38,6 +41,7 @@ footer
   color:black;
   background-color: #0695A1;
   text-align: center;
+  height:190px;
 }
 
 /* links */
