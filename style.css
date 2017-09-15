@@ -53,6 +53,6 @@ a {
 
 
 a:link {color: #91C45D;}
-/*a:visited { color:#C47942;}*/
-a:hover {color: green;}
-a:active {color:pink;}
+a:visited { color:#C47942;}
+a:hover {color: #057B56;}
+a:active {color:#FFA70A;}
