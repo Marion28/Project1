@@ -1,5 +1,5 @@
 
-.mainheader{height:200px;
+ .mainheader{height:200px;
 background-color: #0695A1;
 text-align: center;}
 
@@ -11,9 +11,7 @@ h1 {
   color: white;
 }
 
-/*
- main content area
-*/
+/*  main content area  */
 
 .wrapper {
   width: 800px;
@@ -33,9 +31,7 @@ h2, h3 {
   color: #0695A1;
 }
 
-/*
-footer
-*/
+/*    footer    */
 
 #endfooter {
   color:black;
@@ -50,7 +46,6 @@ a {
   font-family: 'Crimson Text', serif;
   font-size: 20px;
 }
-
 
 a:link {color: #91C45D;}
 a:visited { color:#C47942;}
